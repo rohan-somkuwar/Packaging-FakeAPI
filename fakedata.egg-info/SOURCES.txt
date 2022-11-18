@@ -1,0 +1,11 @@
+README.md
+setup.py
+fake/__init__.py
+fake/createproduct.py
+fake/data.py
+fake/get.py
+fakedata.egg-info/PKG-INFO
+fakedata.egg-info/SOURCES.txt
+fakedata.egg-info/dependency_links.txt
+fakedata.egg-info/requires.txt
+fakedata.egg-info/top_level.txt
