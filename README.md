@@ -23,4 +23,4 @@ Commands:
   add-product
   categories
   get-categories
-  ``
+ ``
